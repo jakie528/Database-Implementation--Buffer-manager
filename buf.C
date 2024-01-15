@@ -1,7 +1,4 @@
 //----------------------------------------
-// Team members: 
-//      Ziqi Liao (9084667097), Jiaqi Cheng (9079840592), Skylar Hou (9084989582)
-// 
 // This buf.C implements methods of a buffer manager. 
 // Allocates an array for the buffer pool with bufs page frames and a corresponding BufDesc table. 
 // The way things are set up all frames will be in the clear state when the buffer pool is allocated.
